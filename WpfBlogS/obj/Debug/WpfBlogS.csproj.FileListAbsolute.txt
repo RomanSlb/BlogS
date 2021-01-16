@@ -1,0 +1,17 @@
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\bin\Debug\WpfBlogS.exe.config
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\bin\Debug\WpfBlogS.exe
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\bin\Debug\WpfBlogS.pdb
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS.csprojAssemblyReference.cache
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\MainWindow.g.cs
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\App.g.cs
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS_MarkupCompile.cache
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS_MarkupCompile.lref
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\MainWindow.baml
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS.g.resources
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS.Properties.Resources.resources
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS.csproj.GenerateResource.cache
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS.csproj.CoreCompileInputs.cache
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS.exe
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\WpfBlogS.pdb
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\LoginScreen.g.cs
+C:\Users\Roman Sulyba\source\repos\BlogS\WpfBlogS\obj\Debug\LoginScreen.baml
